@@ -1,3 +1,6 @@
+[](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoFii&show_icons=true))
+
+
 - 👋 Hi, I’m @NeoFii
 - 👀 I’m interested in NLP
 - 🌱 I’m currently learning ML,DL...
